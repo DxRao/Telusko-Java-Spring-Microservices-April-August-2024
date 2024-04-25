@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>04-SpringCore-03_BeanFactoryContainerUsingSpringFrameWorkAndXmlApproach</name>
+	<name>04-SpringCore-03_EagerLoadingAndLazyLoadingrUsingDifferentContainerXmlApproach</name>
 	<comment></comment>
 	<projects>
 	</projects>
